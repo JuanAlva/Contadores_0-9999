@@ -1,4 +1,4 @@
-# Contador con Display de 7 Segmentos - PFR 003
+# Contador con Display de 7 Segmentos con DI optoacoplada para medición de conteo de piezas en producción
 
 Este proyecto implementa un **contador digital** usando un microcontrolador **PIC16F628A** y un display de **4 dígitos de 7 segmentos**. El sistema cuenta pulsos de entrada recibidos por el pin **RB0** y muestra el resultado en tiempo real en el display.
 
